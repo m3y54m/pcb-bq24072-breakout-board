@@ -1,1 +1,1 @@
-# pcb-bq24072-breakout-board
+# BQ24072 Breakout Board
